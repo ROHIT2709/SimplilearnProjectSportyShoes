@@ -27,7 +27,7 @@ public class SwaggerConfig {
     }
 	
 	private ApiInfo getApiInfo() {
-       // Contact contact = new Contact("webtutsplus", "http://webtutsplus.com", "contact.webtutsplus@gmail.com");
+       
         return new ApiInfoBuilder()
                 .title("RohitProject(SportyShoes)")
                 .description("Documentation Ecommerce api")
